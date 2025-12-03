@@ -1,6 +1,6 @@
 # IAT-806-Final-Project
 
-TouchDesigner file along with capture folder and backup folder supporting files
+TouchDesigner file along with supporting capture folder and backup folder
 
 TouchDesigner project is using build 2025.31740
 
